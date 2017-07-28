@@ -17,7 +17,7 @@ definition(
     name: "Leak Stopper 2.0	",
     namespace: "tonykeyser",
     author: "Tony Keyser",
-    description: "Turns a switch on and off based on moisture sensor input. A variation of Dry the Wet Spot by Scottin Pollock ",
+    description: "Turns multiple switches on and off based on moisture sensor input. A variation of Dry the Wet Spot by Scottin Pollock ",
     category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Developers/dry-the-wet-spot.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Developers/dry-the-wet-spot@2x.png"
